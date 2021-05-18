@@ -13,7 +13,7 @@ The purpose of the present study was to investigate differences in emotion recog
 
 ## Open-source libraries used
 
-- openpyxl :https://openpyxl.readthedocs.io/en/stable/
+- openpyxl: https://openpyxl.readthedocs.io/en/stable/
 
 ## License
 
