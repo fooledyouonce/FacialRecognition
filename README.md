@@ -11,7 +11,7 @@ This program was developed for a independent research project: Emotion Recogniti
 The purpose of the present study was to investigate differences in emotion recognition (ER) between hard-of-hearing and hearing adults. An additional aim was to determine how ER differs between different modalities of images. It is unclear whether static images are a good representation of the real-world ability to discern emotion; therefore this study includes two components: static images and dynamic images (videos) of emotion. It was expected that overall, individuals will perform better in the ER task with dynamic images than static images. Additionally, it was expected that hearing individuals would perform better than hard-of-hearing individuals. The participants completed an ER task on a computer with static and dynamic images. It was found that there were no significant differences overall differences in modalities, nor were there significant differences between hard-of-hearing and hearing individuals. However, it was found that for fear and sadness, individuals performed better with dynamic images. For disgust, happiness, and surprise, individuals performed better with static images. While it is not conclusive which modality the participants performed better in overall, the data shows significant differences between the two modalities, highlighting the necessity of using videos in ER research.
 
 
-##Libraries used
+## Libraries used
 
 - openpyxl: https://openpyxl.readthedocs.io/en/stable/
 - tkinter: https://docs.python.org/3/library/tkinter.html
@@ -20,7 +20,7 @@ The purpose of the present study was to investigate differences in emotion recog
 
 ## License
 
-    Copyright [2019] [Emily Crowl]
+    Copyright [2019] [Emily Crowl, Brian Tan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
